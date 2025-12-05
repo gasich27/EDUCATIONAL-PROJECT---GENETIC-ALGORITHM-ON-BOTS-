@@ -1,4 +1,4 @@
-# EDUCATIONAL-PROJECT---GENETIC-ALGORITHM-ON-BOTS-
+# EDUCATIONAL-PROJECT---GENETIC-ALGORITHM-ON-BOTS
 *Эволюционная симуляция "ботов" с генетическим алгоритмом.*
 
 # 📌 Описание проекта*
